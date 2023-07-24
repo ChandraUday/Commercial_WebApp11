@@ -10,7 +10,7 @@ function Header({cart, categoryList}) {
     <div className="header">
 
         <Link to="/">
-         <img src="https://press.aboutamazon.in/sites/g/files/knoqqb51441/themes/site/nir_pid3610/dist/images/amazon-logo-orgsmile.svg" className="header_logo" alt="amc"/>
+         <img src="https://www.brandbucket.com/sites/default/files/logo_uploads/344996/large_clientscribe_0.png" className="header_logo" alt="amc"/>
          </Link>
 
         <div className="header_search">
